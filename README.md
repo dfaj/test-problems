@@ -34,7 +34,7 @@
    "words" in a text file. To use this file, put the script in the same folder or path as the target input file
    and run it from the command line. The input file must be a .txt file in ASCII. For example:
    
-   ```{r, engine='bash', count_lines}
+   ```{r, engine='bash'}
    $ python count-words-in-txt-file.py test-file.txt
    ```
    
