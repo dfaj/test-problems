@@ -19,7 +19,7 @@
    * Assume that when a GNode has no children, getChildren() returns a array of size 0, and *not* null.
    * You can also assume that all children returned by getChildren() are not null.
    
-   Given a graph node GNode A as imput, the output looks like this:
+   Given a graph node GNode A as input, the output looks like this:
    
   ```{r, engine='sh'}
    $ walkGraph(A) = [A, B, E, F, C, G, H, I, D, J]
