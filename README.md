@@ -1,4 +1,4 @@
-# The files in the folder are the solutions to the given challenge problems:
+# Solutions to the given challenge problems:
 
 1. Given the interface "GNode" (in **GNode.java**) that looks like this:
 
