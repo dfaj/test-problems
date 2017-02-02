@@ -15,7 +15,7 @@
      
      The run the script, call it from the terminal prompt and pass the .txt file to be processed as an argument. For example:
      
-     ```{r, engine='bash', count_lines}
+     ```
      $ python count-words-in-txt-file.py example.txt
      ```
 
