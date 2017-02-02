@@ -18,6 +18,12 @@
    * In implementing the functions below, you can assume that any graph defined by a GNode is acyclic (no cycles).
    * Assume that when a GNode has no children, getChildren() returns a array of size 0, and *not* null.
    * You can also assume that all children returned by getChildren() are not null.
+   
+   Given a graph node GNode A as imput, the output looks like this:
+   
+  ```{r, engine='sh'}
+   $ walkGraph(A) = [A, B, E, F, C, G, H, I, D, J]
+   ```
 
 2. Implement a function with the following signature:
 
@@ -28,8 +34,13 @@
    returned can be thought of as a ArrayList of paths, where each path
    is represented as an ArrayList of GNodes.
    
-   + The two functions for both problem 1 and 2 are implemented in **GraphNode.java**. To test, run the solution file, **Solution.java** and see the print out of the see results.
+    The two functions for both problem 1 and 2 are implemented in **GraphNode.java**. To test, run the solution file, **Solution.java** and see the print out of the see results.
  
+   Given a graph node GNode A as input, the output looks like this:
+
+```{r, engine='sh'}
+   $ paths(A) = ( (A B E) (A B F) (A C G) (A C H) (A C I) (A D J) )
+   ```
 
 3. **count-words-in-txt-file.py** is a quick and dirty Python program to produce a count of all the different
    "words" in a text file. To use this file, put the script in the same folder or path as the target input file
