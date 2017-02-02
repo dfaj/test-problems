@@ -32,7 +32,9 @@
 
 3. **count-words-in-txt-file.py** is a quick and dirty Python program to produce a count of all the different
    "words" in a text file. To use this file, put the script in the same folder or path as the target input file
-   and run it from the command line. The input file must be a .txt file in ASCII.
+   and run it from the command line. The input file must be a .txt file in ASCII. For example:
+   
+   $ python count-words-in-txt-file.py test-file.txt
    
    The output looks like this:
 
