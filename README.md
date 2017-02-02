@@ -28,8 +28,8 @@
    returned can be thought of as a ArrayList of paths, where each path
    is represented as an ArrayList of GNodes.
    
-   * The two functions for both problem 1 and 2 are implemented in **GraphNode.java**. __**To test the solution, run the
-   solution file, **Solution.java** to see results**__.
+   + The two functions for both problem 1 and 2 are implemented in **GraphNode.java**. To test, run the
+   solution file, **Solution.java** and see the print out of the see results.
 
 3. **count-words-in-txt-file.py** is a quick and dirty Python program to produce a count of all the different
    "words" in a text file. To use this file, put the script in the same folder or path as the target input file
