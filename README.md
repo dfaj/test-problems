@@ -40,17 +40,18 @@
    
    The output look like this:
 
-    Word Count
-    - like	6
-    - what	6
-    - a	6
-    - about	5
-    - big	2
-    - words	2
-    - home	2
-    - girl	2
-    - special	2
-    - 300	2
-    - boy	2
-    - of	2
-    - makes	2
+   | Word | Count |
+   | ---- | :----:|
+   | like |	6 |
+   |  what |	6 |
+   |  a | 6 |
+   |  about | 5 |
+   |  big | 2 |
+   |  words | 2 |
+   |  home | 2 |
+   |  girl | 2 |
+   |  special | 2 |
+   |  300 | 2 |
+   |  boy | 2 |
+   |  of | 2 |
+   |  makes | 2 |
