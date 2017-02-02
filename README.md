@@ -48,7 +48,9 @@
  Sample answers:
  1) walkGraph(A) = [A, B, E, F, C, G, H, I, D, J]
  2) paths(A) = ( (A B E) (A B F) (A C G) (A C H) (A C I) (A D J) )
+ 
   ```
+  
 
 3. **count-words-in-txt-file.py** is a quick and dirty Python program to produce a count of all the different
    "words" in a text file. To use this file, put the script in the same folder or path as the target input file
