@@ -1,27 +1,0 @@
-Write a quick and dirty program (Shell, Python, Perl, Java, Lisp,   C++, APL, or whatever) to produce a count of all the different   "words" in a text file.  Use any definition of word that makes   logical sense or makes your job easy.  
-
-what about email address like: afajebe@gmail.com.
-what about currencies like: $200
-what about hyphenated like: super-mummy
-what about special words like: Bo$t0n00
-what about special references like: @deji
-	The output might look like this:
-<welcome home>
-129.0.0.256
-200%
- - what have we here?
-#cisco
-#cisco&lancome
-lag/home
-200<300
-300>500
-x + y = 400
-ls *.pdf:) / \ |
-
-deji+ope+wale
-boy\girl
-north/east/west/south
-a b c d e f * & 
-(a big boy)
-[a big girl]
-
