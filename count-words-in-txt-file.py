@@ -12,6 +12,12 @@
      4) any tab-space delimited word with well-known separators, e.g., home/user becomes home, user
 
      The text to be analyzed is assume to be English Language wiht ASCII encoding.
+     
+     The run the script, call it from the terminal prompt and pass the .txt file to be processed as an argument. For example:
+     
+     ```{r, engine='bash', count_lines}
+     $ python count-words-in-txt-file.py example.txt
+     ```
 
 
      __version__ = '1.0'
